@@ -125,7 +125,7 @@ Started background pipeline with PID: 12345
 
 ## Next Steps 
 - Add **persistent command history** saved across sessions
-- Implement jobs, fg, bg commands.
-- Add **scripting support** via .myshellrc
+- Implement ```jobs```, ```fg```, ```bg``` commands.
+- Add **scripting support** via ```.myshellrc```
 
 
